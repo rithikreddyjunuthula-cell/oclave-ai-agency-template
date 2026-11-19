@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Oclave — AI automation and design for ops teams">
+  <rect width="1200" height="630" fill="#09090B"/>
+  <rect x="40" y="40" width="1120" height="550" rx="24" fill="none" stroke="#1F1F23" stroke-width="2"/>
+  <circle cx="1080" cy="160" r="220" fill="#F5C542" fill-opacity="0.06"/>
+  <g transform="translate(88 96)">
+    <circle cx="14" cy="14" r="11" fill="none" stroke="#F5C542" stroke-width="4"/>
+    <circle cx="27" cy="27" r="3.5" fill="#F5C542"/>
+    <text x="48" y="29" font-family="Montserrat, Arial, sans-serif" font-size="34" font-weight="700" fill="#F4F4F5">oclave</text>
+  </g>
+  <text x="88" y="290" font-family="Montserrat, Arial, sans-serif" font-size="66" font-weight="700" fill="#F4F4F5">
+    The work that eats your week
+  </text>
+  <text x="88" y="366" font-family="Montserrat, Arial, sans-serif" font-size="66" font-weight="700" fill="#F4F4F5">
+    should not need a person.
+  </text>
+  <text x="88" y="442" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="400" fill="#A1A1AA">
+    AI automation and design for ops-heavy teams.
+  </text>
+  <text x="88" y="512" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500" fill="#F5C542">
+    6-week average build. Fixed scope. You own everything.
+  </text>
+</svg>
